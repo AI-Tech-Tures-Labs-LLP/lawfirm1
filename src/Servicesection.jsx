@@ -2,8 +2,6 @@ import React from "react";
 import s1 from "./assets/s1.svg";
 import s2 from "./assets/s2.svg";
 import icon from "./assets/Icon.svg";
-import chevrondown from "./assets/chevrondown.svg";
-import chevronup from "./assets/chevronup.svg";
 import "./Servicesection.css";
 import "@fontsource/inter"; // Defaults to 400 (normal weight)
 import "@fontsource/inter/400.css"; // Regular
